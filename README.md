@@ -26,6 +26,8 @@ You can review the employees. The admin has the special power to assing, the tas
 ## Home page / Employee view
 ## Sign-Up
 ## Sign-In
+![image](https://github.com/0anju0/ERS/assets/123807748/38e1d669-4b20-47a2-bcd5-ee25879957c5)
+
 ## Forget Password
 ## Assign Task
 ## Employee List
