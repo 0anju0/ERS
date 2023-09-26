@@ -23,14 +23,26 @@ If you want to make an employee as admin then use the secret key : happy.
 You can review the employees. The admin has the special power to assing, the task to employee, remove the employee, add new admin, and also employee;
 
 ## HomePage / Admin View
+![image](https://github.com/0anju0/ERS/assets/123807748/39c548b4-8639-4e25-839e-0c3c8c50120f)
+
 ## Home page / Employee view
+![image](https://github.com/0anju0/ERS/assets/123807748/fb5fdcf2-686f-4291-8d03-2626c967b1d4)
+
 ## Sign-Up
+![image](https://github.com/0anju0/ERS/assets/123807748/238275e3-f49c-4298-9a07-be3706f2811e)
+
 ## Sign-In
 ![image](https://github.com/0anju0/ERS/assets/123807748/38e1d669-4b20-47a2-bcd5-ee25879957c5)
 
 ## Forget Password
+![image](https://github.com/0anju0/ERS/assets/123807748/8e9e8004-d78e-41d7-bb07-4a84c086704b)
+
 ## Assign Task
+![image](https://github.com/0anju0/ERS/assets/123807748/cb4ddce1-252d-4ea0-93c5-62fc4dbf0f11)
+
 ## Employee List
+![image](https://github.com/0anju0/ERS/assets/123807748/24d95410-2ede-4ab4-8bbc-c583321111f7)
+
 ### Folder Structure
 
 Employee Review System
